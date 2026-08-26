@@ -1,0 +1,4 @@
+streamlit>=1.36
+anthropic>=0.34
+chromadb>=0.5
+ddgs>=5.0
