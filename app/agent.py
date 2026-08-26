@@ -17,7 +17,7 @@ regeneration avoids repeating the same fact.
 """
 
 import random
-from app import web_search, vector_store, templates, schemas, llm_client
+from . import web_search, vector_store, templates, schemas, llm_client
 
 MAX_RETRIES = 2
 
